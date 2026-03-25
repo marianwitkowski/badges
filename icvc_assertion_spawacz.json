@@ -5,7 +5,7 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "emil.kowalski@example.com"
+    "identity": "marian.witkowski@example.com"
   },
   "badge": {
     "type": "BadgeClass",
