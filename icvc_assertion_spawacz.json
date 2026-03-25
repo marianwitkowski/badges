@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://icvc.pl/assertions/spawacz-001-20260325",
+  "id": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_assertion_spawacz.json",
   "recipient": {
     "type": "email",
     "hashed": false,
