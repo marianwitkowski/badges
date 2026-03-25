@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Profile",
+  "id": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_issuer.json",
+  "name": "ICVC Certyfikacja",
+  "url": "https://icvc.pl",
+  "email": "certyfikacja@icvc.pl",
+  "description": "Instytut Certyfikacji Zawodowych ICVC"
+}
