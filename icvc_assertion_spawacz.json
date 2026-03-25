@@ -18,8 +18,8 @@
     },
     "issuer": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_issuer.json"
   },
-  "issuedOn": "2026-03-25",
-  "expires": "2028-03-24",
+  "issuedOn": "2026-03-25T00:00:00Z",
+  "expires": "2028-03-24T00:00:00Z",
   "verification": {
     "type": "hosted"
   }
