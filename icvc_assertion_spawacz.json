@@ -1,0 +1,32 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://icvc.pl/assertions/spawacz-001-20260325",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "emil.kowalski@example.com"
+  },
+  "badge": {
+    "type": "BadgeClass",
+    "id": "https://icvc.pl/badges/spawacz-mig-mag",
+    "name": "Spawacz MIG/MAG",
+    "description": "Potwierdzenie kwalifikacji zawodowej: Spawacz MIG/MAG",
+    "image": "https://icvc.pl/badges/spawacz-mig-mag/image.png",
+    "criteria": {
+      "narrative": "Zdanie egzaminu certyfikacyjnego Spawacz MIG/MAG w systemie ICVC."
+    },
+    "issuer": {
+      "type": "Profile",
+      "id": "https://icvc.pl",
+      "name": "ICVC Certyfikacja",
+      "url": "https://icvc.pl",
+      "email": "certyfikacja@icvc.pl"
+    }
+  },
+  "issuedOn": "2026-03-25",
+  "expires": "2028-03-24",
+  "verification": {
+    "type": "hosted"
+  }
+}
