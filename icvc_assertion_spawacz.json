@@ -11,15 +11,34 @@
     "type": "BadgeClass",
     "id": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_badgeclass_spawacz.json",
     "name": "Spawacz MIG/MAG",
-    "description": "Potwierdzenie kwalifikacji zawodowej: Spawacz MIG/MAG",
+    "description": "Potwierdzenie kwalifikacji zawodowej: Spawacz MIG/MAG na poziomie PRK 3 / EQF 3.",
     "image": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_badge_spawacz_migmag.png",
     "criteria": {
-      "narrative": "Zdanie egzaminu certyfikacyjnego Spawacz MIG/MAG w systemie ICVC."
+      "narrative": "Zdanie egzaminu certyfikacyjnego Spawacz MIG/MAG (PRK 3 / EQF 3) w systemie ICVC."
     },
-    "issuer": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_issuer.json"
+    "issuer": "https://raw.githubusercontent.com/marianwitkowski/badges/refs/heads/main/icvc_issuer.json",
+    "alignment": [
+      {
+        "targetName": "PRK poziom 3",
+        "targetUrl": "https://rejestr.kwalifikacji.edu.pl"
+      },
+      {
+        "targetName": "EQF level 3",
+        "targetUrl": "https://europass.europa.eu/en/europass-tools/european-qualifications-framework"
+      }
+    ]
   },
   "issuedOn": "2026-03-25T00:00:00Z",
   "expires": "2028-03-24T00:00:00Z",
+  "evidence": [
+    {
+      "type": "Evidence",
+      "id": "https://egzaminy.icvc.eu/exam-show-registry/1/",
+      "name": "Wyniki egzaminu – ICVC/2026/001",
+      "description": "Strona z wynikami egzaminu Spawacz MIG/MAG dla Marian Witkowski.",
+      "narrative": "Marian Witkowski zdał/a egzamin Spawacz MIG/MAG (PRK 3 / EQF 3), certyfikat nr ICVC/2026/001."
+    }
+  ],
   "verification": {
     "type": "hosted"
   }
